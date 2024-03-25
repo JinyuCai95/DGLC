@@ -1,6 +1,6 @@
 # Deep Graph-Level Clustering (DGLC)
 
-This is an implement of DGLC method in "Jinyu Cai, Yi Han, Wenzhong Guo, and Jicong Fan, [Deep graph-level clustering using pseudo-label-guided mutual information maximization network](https://link.springer.com/article/10.1007/s00521-024-09575-4), Neural Computing and Applications, 2024".
+This is an implement of the DGLC method in "Jinyu Cai, Yi Han, Wenzhong Guo, and Jicong Fan, [Deep graph-level clustering using pseudo-label-guided mutual information maximization network](https://link.springer.com/article/10.1007/s00521-024-09575-4), Neural Computing and Applications, 2024".
 
 ## Running Example:
 
