@@ -10,7 +10,7 @@ This is an implement of DGLC method in "Jinyu Cai, Yi Han, Wenzhong Guo, and Jic
     ```
   - The supported database is [TUDataset](https://chrsmrrs.github.io/datasets/docs/home/), which will be downloaded automatically at runtime (if it does not exist locally).
 
-## Prameter description:
+## Parameter description:
 - DS is the dataset name. You can change from (MUTAG, PTC-MR, BZR, PTC-MM, ENZYMES, COX2), and the dataset will be downloaded automatically.
 - num-gc-layers is the number of GNN hidden layers.
 - hidden-dim is the dimension of the hidden layer of GNN.
