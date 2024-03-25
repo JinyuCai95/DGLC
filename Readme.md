@@ -17,6 +17,8 @@ This is an implement of the DGLC method in "Jinyu Cai, Yi Han, Wenzhong Guo, and
 - cluster_emb is the dimension of the cluster projector.
 
 ## Reference
+If you use the code or find this repository useful for your research, please consider citing our paper.
+
 ```
 @article{cai2024dglc,
   title = {Deep graph-level clustering using pseudo-label-guided mutual information maximization network},
